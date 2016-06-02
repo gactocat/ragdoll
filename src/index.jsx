@@ -1,2 +1,2 @@
-require("./main.css");
-document.write("hello.");
+require('./main.css');
+document.write('hello.');
