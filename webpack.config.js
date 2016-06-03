@@ -18,6 +18,6 @@ module.exports = {
     ],
   },
   eslint: {
-    configFile: './.eslintrc.json',
+    configFile: './.eslintrc',
   },
 };
